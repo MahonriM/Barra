@@ -1,0 +1,16 @@
+.nav-enlace{
+  display:in-lineblock;
+  background :salmon;
+  color :white;
+  padding:10px 30px
+  text-decoration: none;
+}
+.nav-enlace:hover{
+  background: rosybrown;
+}
+nav{
+  background:purple;
+  padding :10px;
+  display:flex;
+  justify-content:space-around;
+}
